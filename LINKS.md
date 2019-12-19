@@ -65,6 +65,7 @@
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
+* [Tomeko](http://tomeko.net/online_tools/hex_to_base64.php/) - Ferramenta conversão de Hexadecimal para base64 string decoder
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -245,6 +246,7 @@
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
 * [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
+* [SouzaHost](https://souza.host/) - Hospedagem compartilhada e VPS para sites e serviços
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
